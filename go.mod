@@ -2,7 +2,6 @@ module github.com/qlcchain/go-qlc
 
 require (
 	github.com/AsynkronIT/protoactor-go v0.0.0-20191118225719-e21ff1a235dd
-	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/abiosoft/ishell v0.0.0-20190613190920-79d20b1325a4
 	github.com/abiosoft/readline v0.0.0-20180607040430-155bce2042db
 	github.com/awnumar/memguard v0.22.2
@@ -17,7 +16,6 @@ require (
 	github.com/fatih/color v1.9.0
 	github.com/flynn-archive/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.1
@@ -49,7 +47,7 @@ require (
 	github.com/qlcchain/jsonrpc2 v0.0.7
 	github.com/rcrowley/go-metrics v0.0.0-20190706150252-9beb055b7962
 	github.com/sahilm/fuzzy v0.1.0
-	github.com/shirou/gopsutil v2.19.12+incompatible
+	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/cobra v1.0.0
@@ -59,8 +57,10 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/tinylib/msgp v1.1.0
+	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/verybluebot/tarinator-go v0.0.0-20190613183509-5ab4e1193986
 	github.com/yireyun/go-queue v0.0.0-20180809062148-5e6897360dac
+	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	gitlab.com/samli88/go-x11-hash v0.0.0-20180610202919-e5ce9e6dea1c
 	go.uber.org/atomic v1.6.0
 	go.uber.org/zap v1.15.0
